@@ -71,7 +71,7 @@ class YashAgarwal:
 |-----------|----------------|----------|
 | **[IASW — Intelligent Banking Automation](https://github.com/yagarwal0/IASW_AI_Agent)** | Human-in-the-loop AI agent that automates account-change requests end-to-end without writing to the core system autonomously. | FastAPI · React · LangChain · GPT-4o · ChromaDB |
 | **[SEC 10-K Analysis with LLMs](https://github.com/yagarwal0/SEC-10K-Data-Analysis-using-LLMs)** | RAG system answering financial questions over SEC 10-K filings with citation-backed responses. | LangChain · OpenAI · ChromaDB |
-| **Image Caption Generator** | Encoder–decoder (DenseNet201 + LSTM) trained on Flickr8k — BLEU-1 of 63.4%. | TensorFlow · CNN · LSTM |
+| **[Image Caption Generator](https://github.com/yagarwal0/image_captioning_using_CNN_and_LSTM)** | Encoder–decoder (DenseNet201 + LSTM) trained on Flickr8k — BLEU-1 of 63.4%. | TensorFlow · CNN · LSTM |
 | **Quora Question Pair Similarity** | Duplicate-question detection on 400K+ pairs at ~80% accuracy. | Scikit-learn · XGBoost |
 
 ---
